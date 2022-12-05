@@ -4,8 +4,7 @@
 ## Linuxi virtuaalmasina ülesse seadistamine
 
 Linuxi virtuaalmasinat saab testida ***"Google Cloud"***-is.<br>
-Selle saab ülesse leida otsingust nime alt ***"Cloud Shell Editor"***.<br><br>
-
+Selle saab ülesse leida otsingust nime alt ***"Cloud Shell Editor"***.<br>
 Avaneb käsurida kuhu saab sisestada käske.<br><br>
 
 Vasakul on menüü kus asub file mis sisaldab lühikirjeldust ***"Cloud Shell"***-ist:<br>
